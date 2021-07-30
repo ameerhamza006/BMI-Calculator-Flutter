@@ -4,6 +4,14 @@ A new Flutter application.
 
 ## Getting Started
 
+
+# Preview
+
+### Screenshot
+
+![Adminator admin dashboard template preview](https://colorlib.com/wp/wp-content/uploads/sites/2/adminator-free-admin-dashboard-template.jpg)
+
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
