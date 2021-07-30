@@ -9,7 +9,7 @@ A new Flutter application.
 
 ### Screenshot
 
-![Adminator admin dashboard template preview](https://colorlib.com/wp/wp-content/uploads/sites/2/adminator-free-admin-dashboard-template.jpg)
+![Adminator admin dashboard template preview](https://raw.githubusercontent.com/ameerhamza006/BMI-Calculator-Flutter/main/Screenshot%20(412).png)
 
 
 This project is a starting point for a Flutter application.
