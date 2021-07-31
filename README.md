@@ -1,8 +1,16 @@
-# flutter_app
+# BMI App
 
 A new Flutter application.
 
 ## Getting Started
+
+
+# Preview
+
+### Screenshot
+
+![Adminator admin dashboard template preview](https://raw.githubusercontent.com/ameerhamza006/BMI-Calculator-Flutter/main/Screenshot%20(412).png)
+
 
 This project is a starting point for a Flutter application.
 
